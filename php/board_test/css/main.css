@@ -1,0 +1,10 @@
+@import "base.css";
+
+.wrap {width:100%; max-width:1200px; margin:0 auto;}
+.top_menu {background-color: #333; color:#fff;}
+.top_menu > ul {float: left; margin-right:1em;}
+.top_menu > ul >li {float: right; padding:0.5em;}
+
+.top {margin:1rem 0; font-size:1.5rem;}
+.top > .logo{float:left; margin-left:1.5em;}
+.top > .bars{float:right; margin-right:1.5em;}
