@@ -3,9 +3,9 @@
 
 <ul class="navs clear">
     <li><a href="../main/main.php?S=0">Home</a></li>
-    <li><a href="../sub/board.php?S=1">Portfolio</a></li>
-    <li><a href="../sub/skill.php?S=2">Skill</a></li>
-    <li><a href="../sub/about.php?S=3">About Me</a></li>
+    <li><a href="../board/bbs/board.php?bo_table=gallery&S=1">Portfolio</a></li>
+    <li><a href="../board/bbs/board.php?bo_table=notice&S=2">Skill</a></li>
+    <li><a href="../board/bbs/board.php?bo_table=qa&S=3">About Me</a></li>
 </ul>
 
 <script>

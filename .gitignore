@@ -1,4 +1,5 @@
 dbconfig.php
+.connect.php
 .vscode
 sftp.json
 .htaccess
